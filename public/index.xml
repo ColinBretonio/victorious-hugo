@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mytitle</title>
+    <link>http://example.com/</link>
+    <description>Recent content on mytitle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>My Name</copyright>
+    <lastBuildDate>Tue, 30 Aug 2016 16:54:56 -0300</lastBuildDate>
+    <atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Primeiros Passos</title>
+      <link>http://example.com/2016/08/30/primeiros-passos/</link>
+      <pubDate>Tue, 30 Aug 2016 16:54:56 -0300</pubDate>
+      
+      <guid>http://example.com/2016/08/30/primeiros-passos/</guid>
+      <description>
+
+&lt;h3 id=&#34;bem-vindo-a-ao-relatório-paraguayo&#34;&gt;Bem-vindo(a) ao Relatório Paraguayo&lt;/h3&gt;
+
+&lt;h3 id=&#34;bretônio-sur-la-red&#34;&gt;Bretônio Sur La Red&lt;/h3&gt;
+
+&lt;h3 id=&#34;hugo-é-a-solução&#34;&gt;Hugo é a Solução&lt;/h3&gt;
+
+&lt;h3 id=&#34;dilma-caindo-com-dignidade&#34;&gt;Dilma Caindo, Com Dignidade&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
